@@ -33,6 +33,7 @@ html, body {
     width: 33%;
     padding: 0px;
     float: left;
+    text-align: center;
 }
 .centrum {
     background-color: lightblue;
